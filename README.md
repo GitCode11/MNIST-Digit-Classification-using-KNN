@@ -5,4 +5,6 @@ It is a subset of a larger set available from NIST. The digits have been size-no
 
 It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 
+The dataset is widely available on Internet.
+
 Source: http://yann.lecun.com/exdb/mnist/
